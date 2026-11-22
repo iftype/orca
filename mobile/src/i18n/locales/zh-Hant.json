@@ -1626,7 +1626,9 @@
       "refresh": "重新整理用量",
       "showUsageFor": "選擇要顯示用量的電腦",
       "updatedAgo": "{{time}}前更新",
-      "updatedJustNow": "剛剛更新"
+      "updatedJustNow": "剛剛更新",
+      "widgetAutomaticDesktop": "最近更新的",
+      "widgetNoAgent": "無"
     }
   },
   "hooks": {

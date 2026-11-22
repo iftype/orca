@@ -1715,7 +1715,9 @@
       "refresh": "Обновить данные об использовании",
       "showUsageFor": "Показать использование для",
       "updatedAgo": "Обновлено {{time}} назад",
-      "updatedJustNow": "Обновлено только что"
+      "updatedJustNow": "Обновлено только что",
+      "widgetAutomaticDesktop": "Обновлённый последним",
+      "widgetNoAgent": "Нет"
     }
   },
   "hooks": {
